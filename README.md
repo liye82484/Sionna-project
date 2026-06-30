@@ -7,7 +7,7 @@ A UE-free integrated sensing and communication (ISAC) framework for pedestrian l
 ## Framework
 
 <p align="center">
-  <img src="images/fig3.png" width="850"/>
+  <img src="images/fig3.png" width="450"/>
 </p>
 
 The proposed framework first constructs a prior channel database from a digital twin in the offline phase. During the online phase, the prior channel is subtracted from the measured channel to extract pedestrian-induced paths, followed by TOA-based multilateration for pedestrian localization.
