@@ -1,0 +1,3 @@
+# Images
+
+This folder contains figures used in the paper.
